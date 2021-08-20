@@ -1,1 +1,1 @@
-# otras formas de background substractor
+# otras formas de background substractor y detector de movimiento en un area
