@@ -30,3 +30,21 @@ imagen[y,x] = [0,0,0]
 ```python
 (B, G, R) = cv2.split(imagen)
 ```
+
+### Rotación.
+```python
+M = cv2.getRotationMatrix2D((ancho//2,alto//2),15,1)
+imageOut = cv2.warpAffine(image,M,(ancho,alto))
+```
+
+### Traslación.
+```python
+M = np.float32([[1,0,100],[0,1,150]])
+imageOut = cv2.warpAffine(image,M,(ancho,alto))
+```
+
+### Espejo
+```python
+anchoMitad = frame.shape[1] // 2
+frame[:,:anchoMitad] = cv2.flip(frame[:,anchoMitad:],1)
+```
