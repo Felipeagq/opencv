@@ -7,7 +7,7 @@
     - Recortar una imagen y video.
     - Escalar una imagen.
 
-
+## Codigos clave:
 ### Leer una imagen
 ```python
 imagen = cv2.imread("path/to/image.jpg")
