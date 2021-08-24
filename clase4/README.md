@@ -1,1 +1,0 @@
-# thresholding y operadores bitwise
