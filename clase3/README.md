@@ -1,4 +1,4 @@
-# CLASE 2 DE VISIÓN ARTITFICIAL: COLORS
+# CLASE 3 DE VISIÓN ARTITFICIAL: COLORS
 ## ¿Que aprenderemos?
 - Others Multimedia Handle:
     - Espejo.

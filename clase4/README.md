@@ -1,4 +1,4 @@
-# CLASE 2 DE VISIÓN ARTITFICIAL: LOGICS OPERATORS
+# CLASE 4 DE VISIÓN ARTITFICIAL: LOGICS OPERATORS
 
 ## ¿Que aprenderemos?
 - operadores bitwise:
